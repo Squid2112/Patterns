@@ -1,0 +1,21 @@
+{
+  "name": "abstract-factory",
+  "version": "1.0.0",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Abstract Factory Pattern Example in TypeScript",
+  "dependencies": {
+    "abstract-factory": "file:",
+    "AbstractFactory": "file:",
+    "typescript": "file:"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.0"
+  }
+}
