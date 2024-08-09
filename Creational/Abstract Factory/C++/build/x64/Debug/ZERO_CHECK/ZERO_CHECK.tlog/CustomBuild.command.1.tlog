@@ -1,0 +1,10 @@
+^D:\GITHUB\PATTERNS\CREATIONAL\ABSTRACT FACTORY\C++\BUILD\CMAKEFILES\BAFCD7D3225C55DA6278F3368F55D8CE\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SD:/github/Patterns/Creational/Abstract Factory/C++" "-BD:/github/Patterns/Creational/Abstract Factory/C++/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/github/Patterns/Creational/Abstract Factory/C++/build/AutoBodyStamping.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

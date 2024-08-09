@@ -1,0 +1,3 @@
+D:/github/Patterns/Creational/Abstract Factory/C++/build/CMakeFiles/AutoBodyStamping.dir
+D:/github/Patterns/Creational/Abstract Factory/C++/build/CMakeFiles/ALL_BUILD.dir
+D:/github/Patterns/Creational/Abstract Factory/C++/build/CMakeFiles/ZERO_CHECK.dir

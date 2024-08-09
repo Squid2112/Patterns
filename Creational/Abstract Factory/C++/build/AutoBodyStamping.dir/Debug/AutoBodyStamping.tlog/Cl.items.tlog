@@ -1,0 +1,5 @@
+D:\github\Patterns\Creational\Abstract Factory\C++\main.cpp;D:\github\Patterns\Creational\Abstract Factory\C++\build\AutoBodyStamping.dir\Debug\main.obj
+D:\github\Patterns\Creational\Abstract Factory\C++\factory\SedanFactory.cpp;D:\github\Patterns\Creational\Abstract Factory\C++\build\AutoBodyStamping.dir\Debug\SedanFactory.obj
+D:\github\Patterns\Creational\Abstract Factory\C++\factory\SUVFactory.cpp;D:\github\Patterns\Creational\Abstract Factory\C++\build\AutoBodyStamping.dir\Debug\SUVFactory.obj
+D:\github\Patterns\Creational\Abstract Factory\C++\product\SedanParts.cpp;D:\github\Patterns\Creational\Abstract Factory\C++\build\AutoBodyStamping.dir\Debug\SedanParts.obj
+D:\github\Patterns\Creational\Abstract Factory\C++\product\SUVParts.cpp;D:\github\Patterns\Creational\Abstract Factory\C++\build\AutoBodyStamping.dir\Debug\SUVParts.obj
