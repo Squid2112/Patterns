@@ -2,8 +2,7 @@ using System;
 
 namespace FastFoodBuilder {
     class Program {
-        static void Main(string[] args)
-        {
+        static void Main(string[] args) {
             IMealBuilder burgerMealBuilder = new BurgerMealBuilder();
             MealDirector director1 = new MealDirector(burgerMealBuilder);
             Meal burgerMeal = director1.ConstructMeal();

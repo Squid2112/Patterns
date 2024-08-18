@@ -1,0 +1,15 @@
+D:\github\Patterns\Creational\Builder\C#\bin\Debug\net8.0\FastFoodBuilder.exe
+D:\github\Patterns\Creational\Builder\C#\bin\Debug\net8.0\FastFoodBuilder.deps.json
+D:\github\Patterns\Creational\Builder\C#\bin\Debug\net8.0\FastFoodBuilder.runtimeconfig.json
+D:\github\Patterns\Creational\Builder\C#\bin\Debug\net8.0\FastFoodBuilder.dll
+D:\github\Patterns\Creational\Builder\C#\bin\Debug\net8.0\FastFoodBuilder.pdb
+D:\github\Patterns\Creational\Builder\C#\obj\Debug\net8.0\FastFoodBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\Patterns\Creational\Builder\C#\obj\Debug\net8.0\FastFoodBuilder.AssemblyInfoInputs.cache
+D:\github\Patterns\Creational\Builder\C#\obj\Debug\net8.0\FastFoodBuilder.AssemblyInfo.cs
+D:\github\Patterns\Creational\Builder\C#\obj\Debug\net8.0\FastFoodBuilder.csproj.CoreCompileInputs.cache
+D:\github\Patterns\Creational\Builder\C#\obj\Debug\net8.0\FastFoodBuilder.sourcelink.json
+D:\github\Patterns\Creational\Builder\C#\obj\Debug\net8.0\FastFoodBuilder.dll
+D:\github\Patterns\Creational\Builder\C#\obj\Debug\net8.0\refint\FastFoodBuilder.dll
+D:\github\Patterns\Creational\Builder\C#\obj\Debug\net8.0\FastFoodBuilder.pdb
+D:\github\Patterns\Creational\Builder\C#\obj\Debug\net8.0\FastFoodBuilder.genruntimeconfig.cache
+D:\github\Patterns\Creational\Builder\C#\obj\Debug\net8.0\ref\FastFoodBuilder.dll
