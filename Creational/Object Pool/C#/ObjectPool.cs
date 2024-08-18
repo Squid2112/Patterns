@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace ObjectPoolExample {
     public class ObjectPool {
-        private static ObjectPool _instance;
+        private static ObjectPool? _instance;
         private readonly List<ReusableObject> _availableObjects = new List<ReusableObject>();
         private readonly List<ReusableObject> _usedObjects = new List<ReusableObject>();
         private readonly int _maxPoolSize = 10;
