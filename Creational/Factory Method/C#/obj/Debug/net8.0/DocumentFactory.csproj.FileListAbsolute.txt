@@ -1,0 +1,15 @@
+D:\github\Patterns\Creational\Factory Method\C#\bin\Debug\net8.0\DocumentFactory.exe
+D:\github\Patterns\Creational\Factory Method\C#\bin\Debug\net8.0\DocumentFactory.deps.json
+D:\github\Patterns\Creational\Factory Method\C#\bin\Debug\net8.0\DocumentFactory.runtimeconfig.json
+D:\github\Patterns\Creational\Factory Method\C#\bin\Debug\net8.0\DocumentFactory.dll
+D:\github\Patterns\Creational\Factory Method\C#\bin\Debug\net8.0\DocumentFactory.pdb
+D:\github\Patterns\Creational\Factory Method\C#\obj\Debug\net8.0\DocumentFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\Patterns\Creational\Factory Method\C#\obj\Debug\net8.0\DocumentFactory.AssemblyInfoInputs.cache
+D:\github\Patterns\Creational\Factory Method\C#\obj\Debug\net8.0\DocumentFactory.AssemblyInfo.cs
+D:\github\Patterns\Creational\Factory Method\C#\obj\Debug\net8.0\DocumentFactory.csproj.CoreCompileInputs.cache
+D:\github\Patterns\Creational\Factory Method\C#\obj\Debug\net8.0\DocumentFactory.sourcelink.json
+D:\github\Patterns\Creational\Factory Method\C#\obj\Debug\net8.0\DocumentFactory.dll
+D:\github\Patterns\Creational\Factory Method\C#\obj\Debug\net8.0\refint\DocumentFactory.dll
+D:\github\Patterns\Creational\Factory Method\C#\obj\Debug\net8.0\DocumentFactory.pdb
+D:\github\Patterns\Creational\Factory Method\C#\obj\Debug\net8.0\DocumentFactory.genruntimeconfig.cache
+D:\github\Patterns\Creational\Factory Method\C#\obj\Debug\net8.0\ref\DocumentFactory.dll

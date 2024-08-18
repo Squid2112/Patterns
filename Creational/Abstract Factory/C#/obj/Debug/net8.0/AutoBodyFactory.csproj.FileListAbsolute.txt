@@ -1,0 +1,15 @@
+D:\github\Patterns\Creational\Abstract Factory\C#\bin\Debug\net8.0\AutoBodyFactory.exe
+D:\github\Patterns\Creational\Abstract Factory\C#\bin\Debug\net8.0\AutoBodyFactory.deps.json
+D:\github\Patterns\Creational\Abstract Factory\C#\bin\Debug\net8.0\AutoBodyFactory.runtimeconfig.json
+D:\github\Patterns\Creational\Abstract Factory\C#\bin\Debug\net8.0\AutoBodyFactory.dll
+D:\github\Patterns\Creational\Abstract Factory\C#\bin\Debug\net8.0\AutoBodyFactory.pdb
+D:\github\Patterns\Creational\Abstract Factory\C#\obj\Debug\net8.0\AutoBodyFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\Patterns\Creational\Abstract Factory\C#\obj\Debug\net8.0\AutoBodyFactory.AssemblyInfoInputs.cache
+D:\github\Patterns\Creational\Abstract Factory\C#\obj\Debug\net8.0\AutoBodyFactory.AssemblyInfo.cs
+D:\github\Patterns\Creational\Abstract Factory\C#\obj\Debug\net8.0\AutoBodyFactory.csproj.CoreCompileInputs.cache
+D:\github\Patterns\Creational\Abstract Factory\C#\obj\Debug\net8.0\AutoBodyFactory.sourcelink.json
+D:\github\Patterns\Creational\Abstract Factory\C#\obj\Debug\net8.0\AutoBodyFactory.dll
+D:\github\Patterns\Creational\Abstract Factory\C#\obj\Debug\net8.0\refint\AutoBodyFactory.dll
+D:\github\Patterns\Creational\Abstract Factory\C#\obj\Debug\net8.0\AutoBodyFactory.pdb
+D:\github\Patterns\Creational\Abstract Factory\C#\obj\Debug\net8.0\AutoBodyFactory.genruntimeconfig.cache
+D:\github\Patterns\Creational\Abstract Factory\C#\obj\Debug\net8.0\ref\AutoBodyFactory.dll
